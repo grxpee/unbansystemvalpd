@@ -1,0 +1,15 @@
+.masthead h1, .masthead .h1 {
+    font-family: 'hanson' !important;
+    letter-spacing: 1px;
+    hyphens: manual;
+    font-size: 7vw;
+  }
+
+
+  @media (min-width: 320px) {
+    .masthead h1, .masthead .h1 {
+        font-family: 'hanson' !important;
+        letter-spacing: 1px;
+        hyphens: manual;
+        font-size: 9vw;
+      } }
